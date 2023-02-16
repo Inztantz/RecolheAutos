@@ -1,0 +1,11 @@
+
+Options All -Indexes
+
+DirectoryIndex index.php
+
+ErrorDocument 400 http://recolheautos.epizy.com/sistema/400
+ErrorDocument 401 http://recolheautos.epizy.com/sistema/401
+ErrorDocument 403 http://recolheautos.epizy.com/sistema/403
+ErrorDocument 404 http://recolheautos.epizy.com/sistema/404
+ErrorDocument 500 http://recolheautos.epizy.com/sistema/500
+ErrorDocument 503 http://recolheautos.epizy.com/sistema/503
